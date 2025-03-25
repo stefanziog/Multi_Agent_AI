@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="SALTY">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/server.jar!/" />
+      <root url="jar://$PROJECT_DIR$/SALTY.zip!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
